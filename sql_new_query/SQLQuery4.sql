@@ -1,0 +1,1 @@
+SELECT UserID, Username, PasswordHash FROM Users WHERE Username = 'admin';
